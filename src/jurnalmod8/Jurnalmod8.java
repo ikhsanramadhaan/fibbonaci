@@ -29,10 +29,11 @@ public static long fibbonaci(int n){
         System.out.println("masukkan angka :");
         int n = next.nextInt();
         for (int i = 1; i <= n; i++) {
-            System.out.print(fibbonaci(i)+ " ");
+            nilai=nilai+fibbonaci(i);
             
         }
-        System.out.println("");
+        System.out.println(nilai);
+        
     }
     
 }

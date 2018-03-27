@@ -1,5 +1,5 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
+ * ICAN LEH UGAAAAAAAAAAAAA
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Praktikan
+ * @author AMIRISBACK
  */
 public class Jurnalmod8 {
 public static long fibbonaci(int n){

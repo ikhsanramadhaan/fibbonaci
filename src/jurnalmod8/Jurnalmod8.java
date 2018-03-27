@@ -1,5 +1,5 @@
 /*
- * ICAN LEH UGAAAAAAAAAAAAA
+ * ICAN 
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
@@ -28,7 +28,7 @@ public static long fibbonaci(int n){
         Scanner next = new Scanner(System.in);
         System.out.println("masukkan angka :");
         int n = next.nextInt();
-        for (int i = 1; i <= n; i++) {
+        for (int i = n; i > 0; i--) {
             System.out.print(fibbonaci(i)+ " ");
             
         }

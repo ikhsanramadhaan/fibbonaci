@@ -1,6 +1,5 @@
 /*
- * ICAN LEH UGAAAAAAAAAAAAA
- * To change this template file, choose Tools | Templates
+ *  BARUSSS
  * and open the template in the editor.
  */
 package jurnalmod8;
